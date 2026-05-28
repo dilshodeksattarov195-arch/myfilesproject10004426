@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchearse",
+        "uuid": 36209106,
+        "checksum": "fzt0kh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
